@@ -3,7 +3,7 @@ This is the Coffee shop website. In this website you can see the about us and ou
 You can locate our store and order the coffee using the bot.
 I used the HTML, CSS, JAVASCRIPT, AZURE LANGUAGE STUDIO, BOT SERVICE, STATIC WEBAPPS,  for this project.
 
-Project link(demo link): 
+Project link(demo link): https://lively-forest-013db9c10.3.azurestaticapps.net/
 
 Some photos taken while working on the project in azure.
 
@@ -19,4 +19,8 @@ Some photos taken while working on the project in azure.
 4.Creating the Bot 
 ![image](https://github.com/vanitha1742/Coffee-shop/assets/107920568/6dbc0d4a-3c8b-4ed0-886f-ba198758022f)
 
-5.
+5.Creating the static web app
+![image](https://github.com/vanitha1742/Coffee-shop/assets/107920568/2d85e347-a828-4bce-90fc-6042a1ee7498)
+
+6.Successfully deployed the website
+![image](https://github.com/vanitha1742/Coffee-shop/assets/107920568/7629e2b3-d4bd-4fbb-90e1-766193a71d70)
